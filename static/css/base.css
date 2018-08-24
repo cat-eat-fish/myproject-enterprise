@@ -1,0 +1,19 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+ul.li,ol,dl,dd{list-style: none;}
+body,html{width: 100%;height: 100%}
+body{font:12px"宋体","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%;} 
+a{color:#2d374b;text-decoration:none} 
+a:hover{color:#cd0200;text-decoration:underline} 
+em{font-style:normal} 
+img{border:0;vertical-align:middle} 
+table{border-collapse:collapse;border-spacing:0} 
+p{word-wrap:break-word}
+.iconfont{font-weight: normal;}
+/* 清除浮动 */
+.clearfloat:after{display:block;clear:both;content:"";visibility:hidden;height:0}
+.clearfloat{zoom:1}
+/* 常用动画 */
+
+/* hove效果 */
+
